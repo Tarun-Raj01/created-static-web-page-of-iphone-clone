@@ -286,10 +286,15 @@ span {
 
 }
 
-.textinside {
-    text-align: center;
-}
-
+/* .pphone1 {
+    /* border: 2px solid; */
+    /* height: 29%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+} */ 
+    
 .takealook {
     height: 660px;
     width: 100vw;
@@ -462,13 +467,13 @@ span {
     min-width: 350px;
     background-image: url(https://www.apple.com/v/iphone/home/ci/images/overview/consider/innovation__ce13717o3vhy_small_2x.jpg);
     background-size: cover;
-    
+
     border-radius: 20px;
     margin: 0px auto;
     font-size: 30px;
 
-  
-    
+
+
 }
 
 .inova2 {
@@ -496,7 +501,7 @@ span {
     height: 650px;
     min-width: 350px;
     background-image: url(https://www.apple.com/in/iphone/home/images/overview/consider/ios__02vczxaa3siu_small_2x.jpg);
-     background-size: cover;
+    background-size: cover;
     border-radius: 20px;
     margin: 0px auto;
     font-size: 30px;
@@ -531,6 +536,7 @@ span {
     font-size: 30px;
     background-size: cover;
 }
+
 .essential {
     height: 800px;
     width: 100vw;
@@ -539,15 +545,17 @@ span {
 
     /* border: 2px solid red; */
 }
-.iphoneasseseries{
+
+.iphoneasseseries {
     height: 650px;
     margin-top: 50px;
-   /* width: 100%; */
-   display: flex;
-   margin-left: 80px;
-   align-items: space-evenly;
-   /* background-color: green; */
+    /* width: 100%; */
+    display: flex;
+    margin-left: 80px;
+    align-items: space-evenly;
+    /* background-color: green; */
 }
+
 .iphoneacce1 {
     height: 600px;
     width: 550px;
@@ -555,44 +563,46 @@ span {
     /* margin: 20px; */
     margin-left: 30px;
     margin-top: 20px;
-     background-image: url(https://www.apple.com/v/iphone/home/ci/images/overview/essentials/accessories__ek0uv892lg6e_medium_2x.jpg);
+    background-image: url(https://www.apple.com/v/iphone/home/ci/images/overview/essentials/accessories__ek0uv892lg6e_medium_2x.jpg);
     background-size: cover;
     background-position: center 150px;
     background-repeat: no-repeat;
     border-radius: 70px;
     background-size: 570px;
-    background-color:whitesmoke;
-    
- 
-    
+    background-color: whitesmoke;
+
+
+
 }
+
 .airtag {
-      height: 600px;
+    height: 600px;
     width: 550px;
     border-radius: 70px;
     /* margin: 20px; */
     margin-left: 30px;
     margin-top: 20px;
-     background-image: url(https://www.apple.com/v/iphone/home/ci/images/overview/essentials/airtag_accessories__gcg7wtcpr2y6_large_2x.jpg);
+    background-image: url(https://www.apple.com/v/iphone/home/ci/images/overview/essentials/airtag_accessories__gcg7wtcpr2y6_large_2x.jpg);
     background-size: cover;
     background-position: center 235px;
     background-repeat: no-repeat;
     border-radius: 70px;
     background-size: 570px;
-    background-color:whitesmoke;
-   
+    background-color: whitesmoke;
+
 }
+
 .fonttext {
     height: 50px;
     width: 350px;
-    
+
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     box-sizing: border-box;
-   
+
     position: relative;
     margin-left: 15%;
     margin-top: 20px;
@@ -610,13 +620,15 @@ span {
     box-sizing: border-box;
 
 }
+
 .fonttext2 p {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
-   
+
     padding-left: 12px;
 
 }
+
 .significant-others {
     height: 800px;
     width: 100%;
@@ -624,26 +636,29 @@ span {
     /* background-color: #F5F5F7; */
     /* margin-top: 120px; */
 }
-.mac{
+
+.mac {
     margin-top: 50px;
     margin-left: 100px;
     height: 620PX;
     width: 1100px;
     border-radius: 70px;
-    background-color:whitesmoke;
+    background-color: whitesmoke;
     display: flex;
     border: 2PX solid black;
     /* display: inline; */
 
 }
+
 .MAC1 {
     height: 500PX;
     width: 300px;
     padding-left: 900px;
     background-color: aquamarine;
-     border: 2PX solid black;
+    border: 2PX solid black;
     margin: 60px 20px 0px 0px;
 }
+
 .Mac2 {
     height: 500PX;
     width: 550PX;
@@ -651,7 +666,3 @@ span {
     border: 2PX solid black;
     margin: 60px 0px 0px 20px;
 }
-
-
-
-

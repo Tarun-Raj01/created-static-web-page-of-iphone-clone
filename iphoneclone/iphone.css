@@ -216,7 +216,7 @@ ul {
 
 line.up {
     height: 500px;
-    width: 100vw;
+    width: 100%;
     background-color: #F5F5F7;
     /* display: flex;
             justify-content: space-evenly; */
@@ -241,7 +241,7 @@ span {
     height: 100%;
     width: 100%;
     /* border: 2px solid black; */
-    margin-left: 5px;
+    /* margin-left: 50px; */
     overflow-x: scroll;
     white-space: nowrap;
     scrollbar-width: none;
@@ -260,8 +260,13 @@ span {
 
 .ia {
     height: 344px;
-    width: 346px;
+    width: 300px;
     border-radius: 20px;
+    /* margin-left: 100px; */
+}
+.ia:hover{
+    transform: scale(1.05);
+    transition: transform 0.4s ease;
 }
 
 .info {
